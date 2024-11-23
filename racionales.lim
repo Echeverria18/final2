@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>recursos</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>FCCDF9</corfondo>
+        <corbanda>F83FE6</corbanda>
+        <cornavega>F83FE6</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>NUMEROS RACIONALES</titulo>
+        <subtitulo>SIGAMOS!!</subtitulo>
+        <autor>CANTILLO, ECHEVERRIA, SILLENID</autor>
+        <logo>stock-vector-cartoon-maths-elements-background-education-logo-2206438587.jpg</logo>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="Aplausos_-_Efecto_De_Sonidos.mp3" modo="1" >super wow!</correcto>
+        <incorrecto son="PI_PI_PI_PI_(SONIDO).mp3" modo="1" >SIGUE INTENTANDO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>10</tipo>
+              <imaxe>lele.jpg</imaxe>
+              <pregunta res="2">¿Qué número es mayor?</pregunta>
+              <pregunta res="0,85">¿Qué número es menor diferente de cero?</pregunta>
+              <pregunta res="numeros decimales">¿Cómo se llaman estos números?</pregunta>
+        </paxina>
+        <paxina id="2" >
+              <tipo>3</tipo>
+              <imaxe>rompe.jpg</imaxe>
+              <filas>4</filas>
+              <columnas>4</columnas>
+              <reixa>0</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="3" >
+              <tipo>28</tipo>
+              <cabeceira>Escoge la opción que desees.</cabeceira>
+              <boton texto="JUEGO CON DECIMALES">https://wordwall.net/es/resource/4407729/sumas-y-restas-de-decimales/sumas-y-restas-con-decimales</boton>
+              <boton texto="JUEGOS CON FRACCIONARIOS">https://wordwall.net/es/resource/5392351/juego-de-fracciones-ii</boton>
+              <boton texto="APRENDE MAS SOBRE FRACCIONARIOS">https://www.youtube.com/watch?v=c9cTIjBqFTw</boton>
+              <boton texto="APRENDE MAS SOBRE DECIMALES">https://www.youtube.com/watch?v=OYjW1gV8SJU&amp;ab_channel=FlexFlixKidsenEspa%C3%B1ol</boton>
+        </paxina>
+        <paxina id="4" >
+              <tipo>17</tipo>
+              <cabeceira>Escoge la pareja de números decimales</cabeceira>
+              <parellas>0,25.jpg</parellas>
+              <parellas>1,02.jpg</parellas>
+              <parellas>2,5.jpg</parellas>
+              <parellas>4,51.jpg</parellas>
+              <parellas>31,52.jpg</parellas>
+              <parellas>o,5.jpg</parellas>
+              <cfondo>FCCDF9</cfondo>
+              <ctapa>000000</ctapa>
+        </paxina>
+        <paxina id="5" >
+              <tipo>20</tipo>
+              <cabeceira>Escoge la etiqueta correcta</cabeceira>
+              <imaxe>pipi.jpg</imaxe>
+              <modo>9</modo>
+              <etiqueta posx="82" posy="37">6</etiqueta>
+              <etiqueta posx="78" posy="108">4</etiqueta>
+              <etiqueta posx="82" posy="170">5</etiqueta>
+              <etiqueta posx="329" posy="36">2</etiqueta>
+              <etiqueta posx="329" posy="108">3</etiqueta>
+              <etiqueta posx="327" posy="160">1</etiqueta>
+        </paxina>
+    </libro>
+</lim>
